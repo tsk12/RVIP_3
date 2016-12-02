@@ -1,0 +1,6 @@
+D:\4 курс\Романов РВиП\3lab\Server\Server\bin\Debug\Server.exe.config
+D:\4 курс\Романов РВиП\3lab\Server\Server\bin\Debug\Server.exe
+D:\4 курс\Романов РВиП\3lab\Server\Server\bin\Debug\Server.pdb
+D:\4 курс\Романов РВиП\3lab\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\4 курс\Романов РВиП\3lab\Server\Server\obj\Debug\Server.exe
+D:\4 курс\Романов РВиП\3lab\Server\Server\obj\Debug\Server.pdb

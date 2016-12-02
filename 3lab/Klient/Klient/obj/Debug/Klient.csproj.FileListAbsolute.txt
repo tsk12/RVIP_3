@@ -1,0 +1,5 @@
+D:\4 курс\Романов РВиП\3lab\Klient\Klient\bin\Debug\Klient.exe.config
+D:\4 курс\Романов РВиП\3lab\Klient\Klient\bin\Debug\Klient.exe
+D:\4 курс\Романов РВиП\3lab\Klient\Klient\bin\Debug\Klient.pdb
+D:\4 курс\Романов РВиП\3lab\Klient\Klient\obj\Debug\Klient.exe
+D:\4 курс\Романов РВиП\3lab\Klient\Klient\obj\Debug\Klient.pdb
